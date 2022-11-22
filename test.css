@@ -12,7 +12,6 @@ right{
 
 p{
 	color: blue;
-	text-shadow: 16px 16px 16px black;
 }
 
 p:visited{
@@ -23,6 +22,7 @@ a{
 	color: green;
 }
 h1{
+	text-shadow: 5px 5px 5px blue;
 	color: black;
 	font-size: 70px;
 	font-family: Georgia;
